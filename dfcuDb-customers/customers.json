@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "642d6b6cfb09360cd51bd918"
+  },
+  "_customer_id": "C000001",
+  "_AccountNumber": "0000000001",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d6b77fb09360cd51bd91e"
+  },
+  "_customer_id": "C000002",
+  "_AccountNumber": "0000000002",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d6b81fb09360cd51bd924"
+  },
+  "_customer_id": "C000003",
+  "_AccountNumber": "0000000003",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642dd893bbf399db5b1155a5"
+  },
+  "_customer_id": "C000004",
+  "_AccountNumber": "0000000004",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642de10a08f879aae177aa44"
+  },
+  "_customer_id": "C000005",
+  "_AccountNumber": "0000000005",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642fe1857cb873a509cdc5de"
+  },
+  "_customer_id": "C000006",
+  "_AccountNumber": "0000000006",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6430661c99d39ad1f99d7b5e"
+  },
+  "_customer_id": "C000007",
+  "_AccountNumber": "0000000007",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64309fe32a0aadf5cc0b1653"
+  },
+  "_customer_id": "C000008",
+  "_AccountNumber": "0000000008",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6430a1161892a9a7517bdfe4"
+  },
+  "_customer_id": "C000009",
+  "_AccountNumber": "0000000009",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6430a470fd029905c2584de0"
+  },
+  "_customer_id": "C000010",
+  "_AccountNumber": "0000000010",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6430aaa02522a79423267c17"
+  },
+  "_customer_id": "C000011",
+  "_AccountNumber": "0000000011",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643193783c9e1e33409f5132"
+  },
+  "_customer_id": "C000012",
+  "_AccountNumber": "0000000012",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64319d6a021696c95dec009c"
+  },
+  "_customer_id": "C000013",
+  "_AccountNumber": "0000000013",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6431b0fe5d6ca92ed9cdf421"
+  },
+  "_customer_id": "C000014",
+  "_AccountNumber": "0000000014",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6431b4ca29a1ad1e7789552f"
+  },
+  "_customer_id": "C000015",
+  "_AccountNumber": "0000000015",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "643286c5d43229a921ecec0b"
+  },
+  "_customer_id": "C000016",
+  "_AccountNumber": "0000000016",
+  "__v": 0
+}]

@@ -1,0 +1,985 @@
+[{
+  "_id": {
+    "$oid": "642e696b0527cf44e48c1dee"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680763243182"
+    }
+  },
+  "level": "error",
+  "message": "Error outside the RPP chain. Error outside the RPP chain.",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e69f169de853424c39677"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680763377780"
+    }
+  },
+  "level": "error",
+  "message": "Error outside the RPP chain. Error outside the RPP chain.",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e6a46ff7d1e4430594409"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680763462164"
+    }
+  },
+  "level": "error",
+  "message": "Error outside the RPP chain. Error outside the RPP chain.",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e6ada448de141a475646d"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680763610645"
+    }
+  },
+  "level": "error",
+  "message": "Error outside the RPP chain. Error outside the RPP chain.",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e70035c7ac947e0b0610b"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680764931094"
+    }
+  },
+  "level": "error",
+  "message": "Error outside the RPP chain. Error outside the RPP chain.",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e707a04dc115458a440aa"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680765050971"
+    }
+  },
+  "level": "error",
+  "message": "unhandled promise rejection unhandled promise rejection",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e70a700f0b94d3888a9ff"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680765095700"
+    }
+  },
+  "level": "error",
+  "message": "unhandled promise rejection unhandled promise rejection",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e70d2f0631804d4bf7cb6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680765138088"
+    }
+  },
+  "level": "error",
+  "message": "unhandled promise rejection unhandled promise rejection",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e715a0094d71b949ae268"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680765274762"
+    }
+  },
+  "level": "error",
+  "message": "Fatal Failure: service suspended... Fatal Failure: service suspended...",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e71b00094d71b949ae269"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680765360302"
+    }
+  },
+  "level": "error",
+  "message": "Fatal Failure: service suspended... Fatal Failure: service suspended...",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e720c74a7dc6ba43f5c16"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680765452452"
+    }
+  },
+  "level": "error",
+  "message": "Fatal Failure: service suspended... Fatal Failure: service suspended...",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e7367e21edb19a44534b8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680765799940"
+    }
+  },
+  "level": "error",
+  "message": "res is not defined res is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e7383e21edb19a44534b9"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680765827775"
+    }
+  },
+  "level": "error",
+  "message": "Operation `accounts.find()` buffering timed out after 10000ms Operation `accounts.find()` buffering timed out after 10000ms",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e73a4e21edb19a44534ba"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680765860195"
+    }
+  },
+  "level": "error",
+  "message": "Operation `accounts.find()` buffering timed out after 10000ms Operation `accounts.find()` buffering timed out after 10000ms",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e86820c59f029ac35f9f7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680770690774"
+    }
+  },
+  "level": "error",
+  "message": "Cannot find module '../middleware/admin'\nRequire stack:\n- C:\\Program Files\\nodejs\\loanStatus-app\\routes\\account_loanstatus_list.js\n- C:\\Program Files\\nodejs\\loanStatus-app\\index.js Cannot find module '../middleware/admin'\nRequire stack:\n- C:\\Program Files\\nodejs\\loanStatus-app\\routes\\account_loanstatus_list.js\n- C:\\Program Files\\nodejs\\loanStatus-app\\index.js",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642e868c95e11b5bc855c0b3"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680770700099"
+    }
+  },
+  "level": "error",
+  "message": "Cannot find module '../middleware/admin'\nRequire stack:\n- C:\\Program Files\\nodejs\\loanStatus-app\\routes\\account_loanstatus_list.js\n- C:\\Program Files\\nodejs\\loanStatus-app\\index.js Cannot find module '../middleware/admin'\nRequire stack:\n- C:\\Program Files\\nodejs\\loanStatus-app\\routes\\account_loanstatus_list.js\n- C:\\Program Files\\nodejs\\loanStatus-app\\index.js",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642ea810e4dd2e453cf92cec"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680779280808"
+    }
+  },
+  "level": "error",
+  "message": "Cannot convert circular structure to BSON Cannot convert circular structure to BSON",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "642ebd0a1680496a80d8b745"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680784650089"
+    }
+  },
+  "level": "error",
+  "message": "APIREQUEST.find is not a function APIREQUEST.find is not a function",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "643024d074f0d81544646854"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680876752487"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token U in JSON at position 0 Unexpected token U in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "643029cbb3873e2a4cec91d6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878027942"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "643029d7b3873e2a4cec91d7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878039129"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "643029e9b3873e2a4cec91d8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878057355"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302a6945b96833b828107c"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878185248"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302a8b140f953128daf9d5"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878219398"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302a8d140f953128daf9d6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878221068"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302a8e140f953128daf9d7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878222372"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302a8e140f953128daf9d8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878222611"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302aad99534d2b689483fc"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878253878"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302ac699534d2b689483fd"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878278128"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302ac999534d2b689483fe"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878281115"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302b0f8fe95523146753ed"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878351079"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302b108fe95523146753ee"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878352845"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302b3e8fe95523146753ef"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878398316"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302b418fe95523146753f0"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878401475"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 19 Unexpected token e in JSON at position 19",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302b488fe95523146753f1"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878408178"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token \" in JSON at position 0 Unexpected token \" in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302b488fe95523146753f2"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878408475"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token \" in JSON at position 0 Unexpected token \" in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302b488fe95523146753f3"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878408642"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token \" in JSON at position 0 Unexpected token \" in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302bd28fe95523146753f4"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878546828"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 21 Unexpected token e in JSON at position 21",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302bd48fe95523146753f5"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878548963"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 21 Unexpected token e in JSON at position 21",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302be58fe95523146753f6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878565611"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 21 Unexpected token e in JSON at position 21",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302be78fe95523146753f7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878567810"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 21 Unexpected token e in JSON at position 21",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302be88fe95523146753f8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680878568235"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 21 Unexpected token e in JSON at position 21",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302e56f3243c37dc12b4b6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879190197"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token $ in JSON at position 0 Unexpected token $ in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302e59f3243c37dc12b4b7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879193862"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token $ in JSON at position 0 Unexpected token $ in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302e5ff3243c37dc12b4b8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879199724"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token $ in JSON at position 0 Unexpected token $ in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302e60f3243c37dc12b4b9"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879200642"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token $ in JSON at position 0 Unexpected token $ in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302e6ff3243c37dc12b4ba"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879215284"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token s in JSON at position 0 Unexpected token s in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302e70f3243c37dc12b4bb"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879216691"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token s in JSON at position 0 Unexpected token s in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302ee6f3243c37dc12b4bc"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879334247"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token l in JSON at position 77 Unexpected token l in JSON at position 77",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302ef4f3243c37dc12b4bd"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879348462"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token l in JSON at position 77 Unexpected token l in JSON at position 77",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64302fc6f3243c37dc12b4be"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879558427"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token l in JSON at position 77 Unexpected token l in JSON at position 77",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6430302a738f2941c4a9fb87"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879658158"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token l in JSON at position 77 Unexpected token l in JSON at position 77",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64303033738f2941c4a9fb88"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879667183"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token l in JSON at position 77 Unexpected token l in JSON at position 77",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64303050738f2941c4a9fb89"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680879696451"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token l in JSON at position 77 Unexpected token l in JSON at position 77",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "643031d1f88c6b0048121119"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680880081897"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token \" in JSON at position 0 Unexpected token \" in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "643065d3caad0d217c0800ba"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680893395185"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected end of JSON input Unexpected end of JSON input",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "643065dccaad0d217c0800bb"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680893404040"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected end of JSON input Unexpected end of JSON input",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64314e762e9c552610e70b73"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680952950171"
+    }
+  },
+  "level": "error",
+  "message": "Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64314ec19db6630438836c2c"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1680953025759"
+    }
+  },
+  "level": "error",
+  "message": "Cannot set headers after they are sent to the client Cannot set headers after they are sent to the client",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64327c0df025c11f64992fee"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681030157765"
+    }
+  },
+  "level": "error",
+  "message": "pgSize is not defined pgSize is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64327c0ff025c11f64992fef"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681030159871"
+    }
+  },
+  "level": "error",
+  "message": "pgSize is not defined pgSize is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64327c15f025c11f64992ff0"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681030165664"
+    }
+  },
+  "level": "error",
+  "message": "pgSize is not defined pgSize is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64327c18f025c11f64992ff1"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681030168432"
+    }
+  },
+  "level": "error",
+  "message": "pgSize is not defined pgSize is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6433be907589553fb0be79c0"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681112720727"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6433be907589553fb0be79c1"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681112720877"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6433be907589553fb0be79c2"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681112720889"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6433be907589553fb0be79c3"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681112720897"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6433be907589553fb0be79c4"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681112720904"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6433be907589553fb0be79c5"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681112720910"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6433be907589553fb0be79c6"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681112720917"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6433be907589553fb0be79c7"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681112720924"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6433be907589553fb0be79c8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681112720931"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6433be907589553fb0be79c9"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681112720939"
+    }
+  },
+  "level": "error",
+  "message": "Unexpected token e in JSON at position 0 Unexpected token e in JSON at position 0",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64341971235bbd0870cb4136"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681135985930"
+    }
+  },
+  "level": "error",
+  "message": "helmt is not defined helmt is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64341ab7589e981428264d15"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681136311206"
+    }
+  },
+  "level": "error",
+  "message": "helmt is not defined helmt is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64341bcfc2df9a0a3010fa79"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681136591384"
+    }
+  },
+  "level": "error",
+  "message": "helmt is not defined helmt is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64341e115af87716746538fb"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681137169149"
+    }
+  },
+  "level": "error",
+  "message": "helmt is not defined helmt is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "64341e7d164d4d24c4ba8ebb"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681137277757"
+    }
+  },
+  "level": "error",
+  "message": "helmt is not defined helmt is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "643420a8fccaa25784f84bd8"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681137832765"
+    }
+  },
+  "level": "error",
+  "message": "helmt is not defined helmt is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6434217ecd0e575028b15f67"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681138046791"
+    }
+  },
+  "level": "error",
+  "message": "helmt is not defined helmt is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "643421e511526f155ce4819a"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681138149382"
+    }
+  },
+  "level": "error",
+  "message": "helmt is not defined helmt is not defined",
+  "meta": null
+},{
+  "_id": {
+    "$oid": "6434222bafd3f625a0d1a846"
+  },
+  "timestamp": {
+    "$date": {
+      "$numberLong": "1681138219504"
+    }
+  },
+  "level": "error",
+  "message": "app.use() requires a middleware function app.use() requires a middleware function",
+  "meta": null
+}]

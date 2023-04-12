@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "642e9a5d67b1064d03b32b86"
+  },
+  "name": "hedwig",
+  "email": "admin@dfcu.com",
+  "password": "$2b$10$VE0X9sUFDZ8sUvxSgTk/SO3IxVMx3vDju1GjB2L5GVgu3HafGOa2u",
+  "isAdmin": true,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64328603d43229a921ecec05"
+  },
+  "name": "userdfcu",
+  "email": "dfcubank@gmail.com",
+  "password": "$2b$10$9mk3CR/PM9lIT9uGALhH5uymr1QrphKaSS4Z5pC67erkqw2GKqSOi",
+  "isAdmin": false,
+  "__v": 0
+}]

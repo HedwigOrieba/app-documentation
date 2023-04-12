@@ -1,0 +1,170 @@
+[{
+  "_id": {
+    "$oid": "642d6c0dfb09360cd51bd927"
+  },
+  "__custId": "C000002",
+  "__loanId": "L000001",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1672401600000"
+    }
+  },
+  "__outStandingAmount": 10000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d6dd8fb09360cd51bd92a"
+  },
+  "__custId": "C000003",
+  "__loanId": "L000002",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1675080000000"
+    }
+  },
+  "__outStandingAmount": 20000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642d707dfb09360cd51bd942"
+  },
+  "__custId": "C000003",
+  "__loanId": "L000003",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1679389200000"
+    }
+  },
+  "__outStandingAmount": 60000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642dd8f6bbf399db5b1155a8"
+  },
+  "__custId": "C000004",
+  "__loanId": "L000004",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1675260000000"
+    }
+  },
+  "__outStandingAmount": 18500,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642dd920bbf399db5b1155ab"
+  },
+  "__custId": "C000004",
+  "__loanId": "L000005",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1678629600000"
+    }
+  },
+  "__outStandingAmount": 3000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642dd940bbf399db5b1155ae"
+  },
+  "__custId": "C000004",
+  "__loanId": "L000006",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1667905200000"
+    }
+  },
+  "__outStandingAmount": 1000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "642de13c08f879aae177aa47"
+  },
+  "__custId": "C000005",
+  "__loanId": "L000007",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1675850400000"
+    }
+  },
+  "__outStandingAmount": 8000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6430a54dfd029905c2584de3"
+  },
+  "__custId": "C000005",
+  "__loanId": "L000008",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1675850400000"
+    }
+  },
+  "__outStandingAmount": 8000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6430a9b5546859257f522986"
+  },
+  "__custId": "C000006",
+  "__loanId": "L000009",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1675850400000"
+    }
+  },
+  "__outStandingAmount": 8000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6431957d3c9e1e33409f5135"
+  },
+  "__custId": "C000001",
+  "__loanId": "L000010",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1675850400000"
+    }
+  },
+  "__outStandingAmount": 8000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6431b1585d6ca92ed9cdf424"
+  },
+  "__custId": "C000014",
+  "__loanId": "L000011",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1675850400000"
+    }
+  },
+  "__outStandingAmount": 8000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6431b4e529a1ad1e77895532"
+  },
+  "__custId": "C000015",
+  "__loanId": "L000012",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1675850400000"
+    }
+  },
+  "__outStandingAmount": 9000,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64328858d43229a921ecec0e"
+  },
+  "__custId": "C000016",
+  "__loanId": "L000013",
+  "__disbursementDate": {
+    "$date": {
+      "$numberLong": "1675850400000"
+    }
+  },
+  "__outStandingAmount": 8000,
+  "__v": 0
+}]
